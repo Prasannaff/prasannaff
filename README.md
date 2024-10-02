@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaff&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaff" /> </p>
 
-- 🌱 I’m currently learning **Advance Java**
+- 🔭 I’m currently **Studying Master of Computer Application(MCA).**
+
+- 🌱 I’m currently learning **Advance Java.**
 
 - 👨‍💻 All of my projects are available at [https://prasannaff.github.io/profile/](https://prasannaff.github.io/profile/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java.**
 
 - 📫 How to reach me **prasannapattar07@gmail.com**
 
